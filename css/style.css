@@ -1,0 +1,57 @@
+html {
+    scroll-behavior: smooth;
+}
+.foto-perfil {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+}
+.cor-primaria {
+    background-color: #18bc9c;
+}
+.cor-secundaria {
+    background-color:#2c3e50;
+}
+p{
+    font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;
+    color: black !important;
+}
+.icones {
+    padding-left: 5px;
+}
+.titulos-brancos {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+.titulos-verde {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #18bc9c;
+}
+.texto-branco {
+    color: white !important;
+}
+.jumbotron {
+    margin-bottom: 0px;
+}
+.texto-footer {
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.espaco-cima {
+    padding-top: 60px;
+}
+.espaco-baixo {
+    padding-bottom: 60px;
+}
+
+
